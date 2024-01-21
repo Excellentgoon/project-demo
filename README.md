@@ -1,2 +1,3 @@
 # project-demo
-This is E-commerce Website
+E-commerce Website using PHP
+Dev- Sahid Laskar
